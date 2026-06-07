@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: purple;
+    font-family: 'Times New Roman', Times, serif;
+}
+.container{
+    display: flex;
+    width: 550px;
+    margin: 50px auto;
+    border: 1px solid white;
+    justify-content: space-around;
+    padding: 10px;
+    align-items: center;
+    background-color: white;
+    border-bottom: 7px solid black;
+    
+}
+img{
+    height: 150px;
+    width: 150px;
+    border-radius: 10px;
+}
+h2{
+    margin-top: 30px;
+    margin-bottom: 5px;
+}
+.p-details{
+    padding: 5px;
+    
+}
